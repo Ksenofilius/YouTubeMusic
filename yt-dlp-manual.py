@@ -4,7 +4,7 @@ import yt_dlp
 import requests
 from mutagen.flac import FLAC, Picture
 
-DOWNLOAD_FOLDER = "/where/to/download" # choose a path to where download songs
+DOWNLOAD_FOLDER = "/where/to/download" # choose where to download songs
 LOG_FILE = "download_failures.log"
 
 os.makedirs(DOWNLOAD_FOLDER, exist_ok=True)
