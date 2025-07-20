@@ -5,7 +5,7 @@ import yt_dlp
 import requests
 from mutagen.flac import FLAC, Picture
 
-DOWNLOAD_FOLDER = "test5.1"
+DOWNLOAD_FOLDER = "/where/to/download" # choose where to download songs
 LOG_FILE = "download_failures.log"
 SONGS_CSV_FILE = "songs.csv"
 
