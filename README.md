@@ -1,4 +1,4 @@
-# YouTubeMusic
+# yt-dlp-Music
 ### An educational example demonstrating the use case of the yt-dlp tool.
 
 ---
